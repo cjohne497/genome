@@ -1,0 +1,4 @@
+^^Xneighbors/bongori.fasta
+neighbors/typhimurium.fasta
+Ctrl + O
+

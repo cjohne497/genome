@@ -1,0 +1,7 @@
+- "left reads":
+  - "/mnt/c/Users/chris/OneDrive/Desktop/Christina.txt/unzip_christina/Christina/Christina_1.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/mnt/c/Users/chris/OneDrive/Desktop/Christina.txt/unzip_christina/Christina/Christina_2.fastq.gz"
+  "type": "paired-end"

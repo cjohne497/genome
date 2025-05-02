@@ -1,0 +1,33 @@
+Command line: /root/miniconda3/envs/genomeanalysis/bin/spades.py	-1	/mnt/c/Users/chris/OneDrive/Desktop/Christina.txt/unzip_christina/Christina/Christina_1.fastq.gz	-2	/mnt/c/Users/chris/OneDrive/Desktop/Christina.txt/unzip_christina/Christina/Christina_2.fastq.gz	--isolate	-o	/mnt/c/Users/chris/OneDrive/Desktop/Christina.txt/spadesout	
+
+System information:
+  SPAdes version: 4.1.0
+  Python version: 3.13.2
+  OS: Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39
+
+Output dir: /mnt/c/Users/chris/OneDrive/Desktop/Christina.txt/spadesout
+Mode: ONLY assembling (without read error correction)
+Debug mode is turned OFF
+
+Dataset parameters:
+  Isolate mode
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/mnt/c/Users/chris/OneDrive/Desktop/Christina.txt/unzip_christina/Christina/Christina_1.fastq.gz']
+      right reads: ['/mnt/c/Users/chris/OneDrive/Desktop/Christina.txt/unzip_christina/Christina/Christina_2.fastq.gz']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+  Assembly graph output will use GFA v1.2 format
+Other parameters:
+  Dir for temp files: /mnt/c/Users/chris/OneDrive/Desktop/Christina.txt/spadesout/tmp
+  Threads: 16
+  Memory limit (in Gb): 7
+

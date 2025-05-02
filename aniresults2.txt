@@ -1,0 +1,2 @@
+spadesout/scaffolds.fasta	neighbors/tremae.fasta	98.7167	1714	1835
+spadesout/scaffolds.fasta	neighbors/syringae.fasta	86.639	1506	1835

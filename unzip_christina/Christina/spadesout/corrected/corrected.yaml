@@ -1,0 +1,9 @@
+- "left reads":
+  - "/mnt/c/Users/chris/OneDrive/Desktop/Christina.txt/unzip_christina/Christina/spadesout/corrected/Christina_1.fastq00.0_0.cor.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/mnt/c/Users/chris/OneDrive/Desktop/Christina.txt/unzip_christina/Christina/spadesout/corrected/Christina_2.fastq00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/mnt/c/Users/chris/OneDrive/Desktop/Christina.txt/unzip_christina/Christina/spadesout/corrected/Christina__unpaired00.0_0.cor.fastq.gz"
+  "type": "paired-end"

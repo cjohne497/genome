@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Pseudomonas tremae		strain: PA-1-10F	200454	ASM2327812v1	GCA_023278125.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	5717648	5887743	2022-05-09	5341	PRJNA587608	SAMN17034053
+Pseudomonas tremae		strain: PA-1-10F	200454	ASM2327812v1	GCF_023278125.1	RefSeq	GCF_023278125.1-RS_2024_05_18	Complete Genome	5717648	5887743	2022-05-09	5385	PRJNA587608	SAMN17034053

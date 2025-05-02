@@ -1,0 +1,2 @@
+neighbors/syringae.fasta
+neighbors/tremae.fasta
